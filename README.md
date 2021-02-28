@@ -6,4 +6,6 @@ Let's see how to download the latest data of bitcoin prices to use in the projec
 1- Visit <a href="https://finance.yahoo.com/">Yahoo Finance</a> <br>
 2- Type “Bitcoin” in the search bar <br>
 3- Follow the steps below: <br>
-<img align="left" width="666" height="335" src="https://user-images.githubusercontent.com/63544299/109432224-509b6900-7a1b-11eb-8075-43f36d6f9e49.png">
+<img align="left" width="666" height="335" src="https://user-images.githubusercontent.com/63544299/109432224-509b6900-7a1b-11eb-8075-43f36d6f9e49.png"><br><br><br><br><br><br>
+for Turkish:
+Medium'daki detaylı yazıma bakabilirsiniz.
