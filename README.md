@@ -1,2 +1,2 @@
-# bitcoin-price-prediction-with-python
+# Bitcoin Price Prediction with Python
 Machine Learning Project on Bitcoin Price Prediction with Python
