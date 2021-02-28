@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction with Python 🇬🇧-🇹🇷
+# Bitcoin Price Prediction with Python 🇬🇧_🇹🇷
 I used Google Colab as IDE. For any task where most of your work is related to analysis and visualization, you can use Jypyter notebook or Google Colab there.<br><br>
 
 Let's see how to download the latest data of bitcoin prices to use in the project:
