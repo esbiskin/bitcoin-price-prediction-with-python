@@ -8,4 +8,4 @@ Let's see how to download the latest data of bitcoin prices to use in the projec
 3. Follow the steps below: <br>
 <img align="left" width="585" height="298" src="https://user-images.githubusercontent.com/63544299/109432224-509b6900-7a1b-11eb-8075-43f36d6f9e49.png"><br><br><br><br>
 for Turkish:
-<a href="https://finance.yahoo.com/">MEDIUM</a>'daki detaylı yazıma bakabilirsiniz.
+<a href="https://finance.yahoo.comm/">MEDIUM</a>'daki detaylı yazıma bakabilirsiniz.
